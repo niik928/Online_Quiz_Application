@@ -1,0 +1,5 @@
+package com.quizz.servlet;
+
+public class AddQuestionServlet {
+
+}

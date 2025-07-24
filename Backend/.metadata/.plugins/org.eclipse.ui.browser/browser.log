@@ -1,0 +1,13 @@
+
+Jul 24, 2025 15:04:05.26 NEW SESSION
+Jul 24, 2025 15:04:05.26 [8852:6624:0724/150405.025:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+Jul 24, 2025 15:04:05.115 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+Jul 24, 2025 15:04:05.116 I0000 00:00:1753349645.113569   19240 voice_transcription.cc:58] Registering VoiceTranscriptionCapability
+Jul 24, 2025 15:04:05.857 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 24, 2025 15:04:05.881 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jul 24, 2025 15:04:29.431 [8852:6624:0724/150429.431:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+Jul 24, 2025 15:04:36.523 [8852:10992:0724/150436.523:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:62] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2025 15:05:24.492 [8852:6624:0724/150524.490:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+Jul 24, 2025 15:06:56.912 [8852:6624:0724/150656.912:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+Jul 24, 2025 15:11:54.16 [8852:6624:0724/151154.016:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
+Jul 24, 2025 15:12:59.463 [8852:6624:0724/151259.463:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105

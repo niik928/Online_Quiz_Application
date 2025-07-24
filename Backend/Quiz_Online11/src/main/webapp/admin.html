@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Admin Page</title>
+    <style>
+        .nav-ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color:#f2f2f2;
+    color: black;
+}
+
+.nav-ul h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.nav-buttons a {
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.app {
+    background: white;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional visual boost */
+}
+
+.app h1 {
+    font-size: 25px;
+    color: #001e4d;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
+
+.btn {
+    background: white;
+    color: #222;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn:hover:not([disabled]) {
+    background: green;
+    color: white;
+}
+
+.btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.next-btn {
+    background: #001e4d;
+    color: #fff;
+    text-align: center;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+
+    </style>
+</head>
+<body>
+    <div class="nav-ul">
+        <h1>Admin Panel</h1>
+        <div class="nav-buttons">
+            <a href="usershow">ShowUsers</a>
+             <a href="quizlist">QuizList</a>
+            <a href="addquiz">AddQuiz</a> 
+        </div>
+    </div>
+
+</body>
+
+</html>
