@@ -11,3 +11,4 @@ Jul 24, 2025 15:05:24.492 [8852:6624:0724/150524.490:ERROR:google_apis\gcm\engin
 Jul 24, 2025 15:06:56.912 [8852:6624:0724/150656.912:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
 Jul 24, 2025 15:11:54.16 [8852:6624:0724/151154.016:ERROR:google_apis\gcm\engine\registration_request.cc:274] Registration URL fetching failed.
 Jul 24, 2025 15:12:59.463 [8852:6624:0724/151259.463:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Jul 24, 2025 15:18:14.655 [8852:6624:0724/151814.655:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
