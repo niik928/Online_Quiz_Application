@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\NikitaDMC\OnlineQuizApplication\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1633665386.index
+750969285.index
+558344511.index
+978717058.index
+1800573565.index
+447547472.index
+300923835.index
